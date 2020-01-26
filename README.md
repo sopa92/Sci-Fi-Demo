@@ -17,4 +17,4 @@ Experimenting with:
 |![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot1.JPG)|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot2.JPG)|
 |--|--|
 |![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot3.JPG)|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot4.JPG)|
-|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot5.JPG)|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot6.JPG)|
+|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot5a.JPG)|![](https://github.com/sopa92/Sci-Fi-Demo/blob/master/Screenshots/Screenshot6.JPG)|
